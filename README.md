@@ -19,9 +19,7 @@
 <p align="center">
 A lightweight HTTP server written in <a href="https://ziglang.org/">Zig</a> — no libc, no frameworks, just raw sockets and clean code.
 </p>
-<p align="center">
-  <img src="preview.gif" alt="preview" style="border-radius: 12px; overflow: hidden;" />
-</p>
+
 
  
 ```sh
